@@ -33,7 +33,7 @@
 					</ul>
 				</div>
 				<h4>My Family tree</h4>
-				<img src="soyagacı.jpg ">
+				<img src="soyagacı.png ">
 			</div>
 		</div>
 	</div>
