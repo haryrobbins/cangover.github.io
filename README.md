@@ -34,6 +34,5 @@
 				<img src="soyagacı.png ">
 			</div>
 		</div>
-	</div>
 </body>
 </html>
