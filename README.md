@@ -4,7 +4,7 @@
 </head>
 <body>
 <div id="wrapper">
-		<font size="5"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a></font>
+		<font size="5"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></font>
 		<div id="bg"></div>	
 	<div id="main-content">
 		<div id="left-column">
