@@ -24,7 +24,7 @@
 			<img src="http://movieemonk.com/wp-content/uploads/the-theory-of-everything-quote-1.jpg " width="900" height="600" style="margin: 0 10px 10px 0;float:left;" />
 			<div> 
 			<br>
-				<h3>Find Me Elsewhere</h3>
+				<h2>Find Me Elsewhere</h2>
 				</div>
 				<div class="box">
 					<ul>
@@ -32,7 +32,7 @@
 						<li><a href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</a></li>		
 					</ul>
 				</div>
-				<h4>My Family tree</h4>
+				<h2>My Family tree</h2>
 				<img src="soyagacı.png ">
 			</div>
 		</div>
