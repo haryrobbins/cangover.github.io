@@ -32,6 +32,8 @@
 						<li><a href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</a></li>		
 					</ul>
 				</div>
+				<h4>My Family tree</h4>
+				<img src="soyagacı.jpg ">
 			</div>
 		</div>
 	</div>
