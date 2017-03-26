@@ -23,10 +23,11 @@
 			</ul>
 			</div>
 			<h2>A Few of My Favourite Quotes</h2>
-			<p>
+			
 		<img src="http://collegeismylife.com/wp-content/uploads/2016/08/tumblr_nsmkviTFjN1uygu1vo1_1280.jpg " width="600" height="450" style="margin: 0 10px 10px 0;float:left;" />
+		<p>-Mr.Robot</p>
 			<img src="http://movieemonk.com/wp-content/uploads/the-theory-of-everything-quote-1.jpg " width="600" height="450" style="margin: 0 10px 10px 0;float:left;" />
-			</p> 
+			<p>-The Theory of Everything</p> 
 			<div>
 				<h3>Find Me Elsewhere</h3>
 				</div>
