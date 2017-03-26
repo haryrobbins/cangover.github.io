@@ -24,7 +24,7 @@
 			<div id="head">-The Theory of Everything</div>
 			<img src="http://movieemonk.com/wp-content/uploads/the-theory-of-everything-quote-1.jpg " width="900" height="600" style="margin: 0 10px 10px 0;float:left;" />
 			<div> 
-			<hr>
+			<br>
 				<h3>Find Me Elsewhere</h3>
 				</div>
 				<div class="box">
