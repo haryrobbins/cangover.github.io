@@ -26,8 +26,10 @@
 			<p>
 		<img src="http://collegeismylife.com/wp-content/uploads/2016/08/tumblr_nsmkviTFjN1uygu1vo1_1280.jpg " width="600" height="450" style="margin: 0 10px 10px 0;float:left;" />
 			<img src="http://movieemonk.com/wp-content/uploads/the-theory-of-everything-quote-1.jpg " width="600" height="450" style="margin: 0 10px 10px 0;float:left;" />
-			</p> <br>				
+			</p> 
+			<div>
 				<h3>Find Me Elsewhere</h3>
+				</div>
 				<div class="box">
 					<ul>
 						<li><a href="http://instagram.com/cangover/" target="_blank">Instagram</a></li>
