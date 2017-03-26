@@ -5,11 +5,8 @@
 </head>
 <body>
 <div id="wrapper">
-    	<font size="4">
-		<div id="nav"><a href="index.html">Home</a> | <a href="#">About Me</a> | <a href="#">My Photos</a> | <a href="#">Contact Me</a> | <a href="#">Hobbies</a> | <a href="#">Hometown</a></div>
-		<div id="bg"></div>
-	</font>
-	
+		<font size="5"><a href="index.html">Home</a> | <a href="#">About Me</a> | <a href="#">My Photos</a> | <a href="#">Contact Me</a> | <a href="#">Hobbies</a> | <a href="#">Hometown</a></font>
+		<div id="bg"></div>	
 	<div id="main-content">
 		<div id="left-column">
 			<div id="logo">
