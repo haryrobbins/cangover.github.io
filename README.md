@@ -5,8 +5,7 @@
 </head>
 <body>
 <div id="wrapper">
-    
-	<div id="header">
+    	<div size="3">
 		<div id="nav"><a href="index.html">Home</a> | <a href="#">About Me</a> | <a href="#">My Photos</a> | <a href="#">Contact Me</a> | <a href="#">Hobbies</a> | <a href="#">Hometown</a></div>
 		<div id="bg"></div>
 	</div>
