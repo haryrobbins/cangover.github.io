@@ -3,9 +3,7 @@
     <title>My Personal Webpage</title>
 </head>
 <body>
-<div id="wrapper">
-		<font size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></font>
-		<div id="bg"></div>	
+		<font size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></font>	
 	<div id="main-content">
 		<div id="left-column">
 			<div id="logo">
