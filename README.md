@@ -81,8 +81,7 @@
 			<div class="box">
         		<h1>What You'll Find Here?</h1>
         		<p>This is my space, adventure of an extraordinary student. </p>
-				<ul style="margin-top:10px;">
-			</ul>
+				<ul style="margin-top:10px;"></ul>
 			</div>
 			<h2>A Few of My Favourite Quotes</h2>
 		<div id="head">-Mr.Robot</div><br>
@@ -94,14 +93,11 @@
 				<h2>Find Me Elsewhere</h2>
 				</div>
 				<div class="box">
-					<ul>
 						<a href="http://instagram.com/cangover/" target="_blank">Instagram</a>
 						<a href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</a>		
-					</ul>
 				</div>
 				<h2>My Family tree</h2>
 				<img src="soyagacı.png ">
 			</div>
 		</div>
 </body>
-</html>
