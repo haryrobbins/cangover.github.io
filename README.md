@@ -70,7 +70,7 @@
 
 	</style>
 <body>
-		<font size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></font>	
+		<li size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></li>	
 	<div id="main-content">
 		<div id="left-column">
 			<div id="logo">
@@ -93,8 +93,8 @@
 				</div>
 				<div class="box">
 					<ul>
-						<li><a href="http://instagram.com/cangover/" target="_blank">Instagram</a></li>
-						<li><a href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</a></li>		
+						<a href="http://instagram.com/cangover/" target="_blank">Instagram</a>
+						<a href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</a>		
 					</ul>
 				</div>
 				<h2>My Family tree</h2>
