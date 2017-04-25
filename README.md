@@ -5,7 +5,38 @@
 	<style>
 
 		ul {
-		    margin: 0;
+		    margin: 0;		.active {
+	    	background-color: #D4EE5E;
+
+		}
+
+
+		p{
+			color:black;
+			
+			font-family:cursive;
+			font-size: 15px;
+			font-style: italic;
+			
+			background-color: lightgray;
+			border-style: double;
+			border-color: black;
+			border-width: 5px;
+
+			margin: 10px;
+			padding: 10px;
+
+			text-align:center;
+		}
+
+		body{
+			background-color:#F0F2EB;
+		}
+
+		h2{
+			font-family:cursive;
+			text-align:center;
+
 		    padding: 0;
 		    overflow: hidden;
 		    background-color: #FF4242;
