@@ -113,7 +113,7 @@
 			</div>
 			<h2>A Few of My Favourite Quotes</h2>
 		<div id="head">-Mr.Robot</div><br>
-		<img src="http://collegeismylife.com/wp-content/uploads/2016/08/tumblr_nsmkviTFjN1uygu1vo1_1280.jpg " width="900" height="600" style="margin: 0 10px 10px 0;float:left;" /><br>
+		<img src="https://pbs.twimg.com/media/Coh8l99VMAA9t9U.jpg" width="900" height="600" style="margin: 0 10px 10px 0;float:left;" /><br>
 			<div id="head">-The Theory of Everything</div><br>
 			<img src="http://movieemonk.com/wp-content/uploads/the-theory-of-everything-quote-1.jpg " width="900" height="600" style="margin: 0 10px 10px 0;float:left;" />
 			<div> 
