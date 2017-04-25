@@ -74,9 +74,7 @@
 		</ul>
 	<div id="main-content">
 		<div id="left-column">
-			<h2>
-			Welcome to Cengizhan OZ's Webpage
-			</h2>
+			<h1>Welcome to Cengizhan OZ's Webpage</h1>
 			<div class="box">
         		<h1>What You'll Find Here?</h1>
         		<p>This is my space, adventure of an extraordinary student. </p>
