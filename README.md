@@ -12,6 +12,63 @@
 		    background-color: #FF4242;
 		    
 		}
+		li a {
+			float: left;
+			display: inline;
+		    display: block;
+		    color: black;
+		    text-align: center;
+		    padding: 14px 16px;
+		    text-decoration: none;
+		    border-right: 1px solid #bbb;
+		}
+
+		li a:hover:not(.active) {
+	    	background-color: #E1EDB9;
+		}
+
+		.active {
+	    	background-color: #D4EE5E;
+
+		}
+
+
+		p{
+			color:black;
+			
+			font-family:cursive;
+			font-size: 15px;
+			font-style: italic;
+			
+			background-color: lightgray;
+			border-style: double;
+			border-color: black;
+			border-width: 5px;
+
+			margin: 10px;
+			padding: 10px;
+
+			text-align:center;
+		}
+
+		body{
+			background-color:#F0F2EB;
+		}
+
+		h2{
+			font-family:cursive;
+			text-align:center;
+		}
+
+	
+		img {
+    		max-width: 70%;
+    		height: auto;
+    		margin: 10px;
+			padding: 10px;
+    	}
+
+	</style>
 <body>
 		<font size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></font>	
 	<div id="main-content">
