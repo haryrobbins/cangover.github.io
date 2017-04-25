@@ -95,7 +95,7 @@
     		max-width: 70%;
     		height: auto;
     		margin: 10px;
-			padding: 10px;
+		padding: 10px;
     	}
 
 	</style>
