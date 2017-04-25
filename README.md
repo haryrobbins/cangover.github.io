@@ -101,7 +101,7 @@
 	</style>
 <body>
 <ul>
-		<li size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></li>
+		<li size="4"><a href="https://cangover.github.io/index.html#">Home</a> | <a href="AboutMe.html">About Me</a> | <a href="MyPhotos.html">My Photos</a> | <a href="ContactMe.html">Contact Me</a> | <a href="Hobbies.html">Hobbies</a> | <a href="Hometown.html">Hometown</a> | <a href="Register.html">Registration</a></li> <hr>
 		</ul>
 	<div id="main-content">
 		<div id="left-column">
@@ -121,8 +121,8 @@
 				<h2>Find Me Elsewhere</h2>
 				</div>
 				<div class="box">
-						<a href="http://instagram.com/cangover/" target="_blank">Instagram</a>
-						<a href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</a>		
+						<li href="http://instagram.com/cangover/" target="_blank">Instagram</li>
+						<li href="http://twitter.com/zabumafoo7/" target="_blank">Twitter</li>		
 				</div>
 				<h2>My Family tree</h2>
 				<img src="soyagacı.png ">
