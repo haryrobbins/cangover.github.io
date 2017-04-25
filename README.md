@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>My Personal Webpage</title>
+    <title style="color:blue;margin-left:20px;">My Personal Webpage</title>
     <link href="css/bootstrap.css" rel="stylesheet">
 
 	<style>
